@@ -1,4 +1,4 @@
-##Cyberbullying Detection using Machine Learning (Linear SVC) & Flask
+## Cyberbullying Detection using Machine Learning (Linear SVC) & Flask
 
 📌 Overview
 
